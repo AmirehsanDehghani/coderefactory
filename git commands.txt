@@ -1,3 +1,5 @@
 git config --global user.name "Amir Ehsan Dehghani Ahmad Abad"
 git config --global user.email dehghani.amirehsan@gmail.com
 git config --list
+
+get add .
